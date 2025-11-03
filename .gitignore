@@ -19,10 +19,10 @@ env/
 # ==============================
 # Flask / Django / Web Projects
 # ==============================
-instance/
-*.db
-*.sqlite3
-*.sqlite
+# instance/
+# *.db
+# *.sqlite3
+# *.sqlite
 
 # ==============================
 # Logs & Caches
